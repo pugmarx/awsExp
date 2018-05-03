@@ -1,5 +1,5 @@
 #!/bin/bash -ex
-bucket=BUCKET_NAME
+bucket=edx-pgmx-deployment-artifacts
 
 # install python3.6 and dev tools
 yum -y install python36
